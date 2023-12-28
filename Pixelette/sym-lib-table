@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/File Andrian/Keeb/Don't Work/LIBS/marbastlib-main/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/File Andrian/Keeb/Don't Work/LIBS/marbastlib-main/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "D:/File Andrian/Keeb/Don't Work/LIBS/marbastlib-main/marbastlib-choc.kicad_sym")(options "")(descr ""))
+)
